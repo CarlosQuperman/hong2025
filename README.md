@@ -4,4 +4,4 @@
 * 첨부한 PDF 파일을 참고하고
 * 선생님의 안내에 따라 프로그램에 참석 바랍니다!
 * https://github.com/CarlosQuperman/hong2025
-* 
+* https://gw1.kr/hongai2025
